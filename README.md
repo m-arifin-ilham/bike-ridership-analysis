@@ -1,3 +1,5 @@
+**Bike Ridership Analysis and Dashboard** ✨
+
 Untuk menjalankan dashboard dengan menggunakan google colab, lakukan langkah-langkah berikut.
 1. Upload file dashboard.py dan main_data.csv ke google colab. 
 2. Instal streamlit dan localtunnel dengan kode berikut.
